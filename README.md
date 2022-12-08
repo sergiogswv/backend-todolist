@@ -14,3 +14,4 @@ Branch "mongooseConnection":
 
 Pendiente: 
 -Obtener tareas por usuario
+-Obtener items de cada tarea
