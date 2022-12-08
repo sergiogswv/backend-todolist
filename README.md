@@ -6,7 +6,11 @@ Acciones:
 - Agregar, Editar, Eliminar 1, Eliminar todas, Obtener - Tareas
 - Agregar, Editar, Eliminar 1, Eliminar todas, Obtener - Items por tarea
 
-Pendientes:
+Branch "mongooseConnection":
 -Login
 -Creacion de usuario
+-Obtener autenticacion de token (JWT)
+-Obtener usuario autenticado
+
+Pendiente: 
 -Obtener tareas por usuario
