@@ -1,4 +1,4 @@
-# backend-todolist
+# Backend-todolist
 - Instalar dependencias:  npm i
 - crear archivo variables.env con la direccion de la base de datos mongodb
 
@@ -13,8 +13,6 @@ Branch "mongooseConnection":
 - Creacion de usuario
 - Obtener autenticacion de token (JWT)
 - Obtener usuario autenticado
-
-Pendiente: 
 - Obtener tareas por usuario
 - Obtener items de cada tarea
 
