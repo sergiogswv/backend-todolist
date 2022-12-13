@@ -7,6 +7,8 @@ Acciones:
 - Agregar, Editar, Eliminar 1, Eliminar todas, Obtener - Items por tarea
 
 Branch "mongooseConnection":
+- Crud de tasks
+- Crud de items
 - Login
 - Creacion de usuario
 - Obtener autenticacion de token (JWT)
@@ -15,3 +17,15 @@ Branch "mongooseConnection":
 Pendiente: 
 - Obtener tareas por usuario
 - Obtener items de cada tarea
+
+Branch "mysqlConnection":
+- Crud de tasks
+- Crud de items
+
+Pendiente: 
+- Login
+- Creacion de usuario
+- Obtener tareas por usuario
+- Obtener items de cada tarea
+- Obtener autenticacion de token (JWT)
+- Obtener usuario autenticado
