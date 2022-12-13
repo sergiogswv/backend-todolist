@@ -19,6 +19,15 @@ const itemsModel = mongoose.Schema({
     type: mongoose.Schema.Types.ObjectId,
     ref: 'task',
     required: true
+  },
+  creador: {
+    type: String,
+    required: true
+  },
+  created_At: {
+    type: Date,
+    required: true,
+    default: Date.now()
   }
 })
 

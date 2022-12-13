@@ -12,6 +12,6 @@ module.exports = function (req, res, next) {
     req.usuario = crypt.usuario
     next()
   } catch (error) {
-    res.status(400).json({ msg: 'El token no es válido' })
+    res.status(400).json({ msg: 'Invalidate token' })
   }
 }

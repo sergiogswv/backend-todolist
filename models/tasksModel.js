@@ -14,6 +14,15 @@ const taskModel = mongoose.Schema({
     type: Boolean,
     required: true,
     default: false
+  },
+  creador: {
+    type: String,
+    required: true
+  },
+  created_At: {
+    type: Date,
+    required: true,
+    default: Date.now()
   }
 })
 
